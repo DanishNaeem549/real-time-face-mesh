@@ -5,7 +5,7 @@ import mediapipe as mp
 mp_drawing = mp.solutions.drawing_utils
 mp_face_mesh = mp.solutions.face_mesh
 
-# Drawing spec for landmarks and connections
+
 drawing_spec = mp_drawing.DrawingSpec(thickness=1, circle_radius=1)
 
 def run_face_mesh():

@@ -41,7 +41,6 @@ face-mesh/
 └── README.md          # This file
 ```
 
----
 
 ## ✨ Features
 
